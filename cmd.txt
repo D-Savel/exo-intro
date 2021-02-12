@@ -6,6 +6,7 @@ mkdir [option] -p crée plusieurs répertoire s'ils n'existent pas | ex: 'mkdir 
 ls [option] -f affiche dans l'ordre des répertoires | i index in nombre pour chaque fichier | l affichage détaillé | a affiche les répertoires et fichiers cachés
 man
 rm [option] -r efface sous répertoire et leur contenu | -f ne demande pas de confirmation avant d'effacer (commandes très dangereuses)
+mv
 
 2/ Commande Sudo
 
